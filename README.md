@@ -1,4 +1,4 @@
-# Welcome to YL MVC Structure by
+# Welcome to YL MVC Structure
 
 **YL MVC Structure (PHP MVC)** is a pattern made in PHP used to implement user interfaces, data, and controlling logic.
 
